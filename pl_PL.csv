@@ -2191,7 +2191,7 @@ Edit,Zmień,module,Magento_CatalogEvent
 "Product with SKU ""%1"" does not exist","Produkt z SKU ""%1"" nie istnieje",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
-"The most you may purchase is %1.","Najwięcej, ile możesz kupic to %1.",module,Magento_CatalogInventory
+"The most you may purchase is %1.","Najwięcej, ile możesz kupić to %1.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested.","Nie posiadamy tak dużej ilości produktu ""%1"" jakiej oczekujesz.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Nie mamy tyle ""%1"", ile zamawiasz, jednak zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nie mamy ""%1"" w żądanej ilości, więc zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
