@@ -12709,3 +12709,4 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Account Dashboard",Panel,theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
+"The requested qty exceeds the maximum qty allowed in shopping cart","Żądana ilość przekracza maksymalną dozwoloną ilość w koszyku",module,Magento_SalesInventory
