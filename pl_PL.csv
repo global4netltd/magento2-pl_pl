@@ -11509,8 +11509,8 @@ Off,Wyłączone,module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","Włączone: ${ $.visible } / ${ $.total }",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention.",module,Magento_Ui
-from,from,module,Magento_Ui
-to,to,module,Magento_Ui
+from,od,module,Magento_Ui
+to,do,module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Szukaj wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
